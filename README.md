@@ -8,4 +8,6 @@ A test FPS game in Unity
   -ak-47<br>
   -sniper<br>
   -pistol<br>
+  -grenade<br>
+  -machette<br>
 a FPS control<br>
